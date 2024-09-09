@@ -12,11 +12,8 @@ Check out the simulation here: https://lnkd.in/dkzqeAVw
 
 I completed Verizon Cloud Platform Job Simulation Program on Forage. In the simulation I:
 
- * Completed a job simulation involving building a hypothetical new VPN product
- for Verizon’s Cloud Computing team.
- * Used command line Python to test whether Verizon’s VPN met the cloud-native
- traits, i.e. redundancy, resiliency and least-privilege.
- * Researched approaches to achieve application security and communicated
- insights in a PowerPoint Presentation.
+ * I built a hypothetical new VPN product for Verizon’s Cloud Computing team.
+ * Used command line Python to test whether Verizon’s VPN met the cloud-native traits, i.e. redundancy, resiliency and least-privilege.
+ * Researched approaches to achieve application security and communicated insights in a PowerPoint Presentation.
 
-Check out the simulation here: https://lnkd.in/dVHmbwha
+Check out the simulation here: https://www.theforage.com/simulations/verizon/cloud-platform-rlyv
