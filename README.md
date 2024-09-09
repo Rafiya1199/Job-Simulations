@@ -1,2 +1,5 @@
 # Job-Simulations
-Job Simulations created by top companies in Software Engineering, Cybersecurity, &amp; Data to show you how the work is done.
+Welcome to my repository showcasing the Forage Job Simulation Certificates I earned through hands-on, company-sponsored software engineering simulations.
+
+# Overview
+Through Forage's job simulations, I was able to apply my software engineering, Cyber Security & Data skills to real-world challenges designed by leading companies in the tech industry. These simulations allowed me to gain practical insights and experience, equipping me with industry-relevant knowledge and problem-solving abilities.
