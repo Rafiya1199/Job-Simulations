@@ -6,7 +6,7 @@ I completed AWS APAC's Solutions Architecture on Forage. In the simulation I:
  times.
 2. Described my proposed architecture in plain language ensuring my client understood how it works and how costs will be calculated for it.
 
-Check out the simulation here: https://lnkd.in/dkzqeAVw
+Check out the simulation here: https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o
 
 # Project 2: Verizon Cloud Platform Job Simulation
 
